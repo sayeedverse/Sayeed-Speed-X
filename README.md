@@ -7,7 +7,7 @@ Sayeed Speed X is a lightweight Chrome extension that gives you greater control 
 ## Preview
 
 <p align="center">
-  <img src="screenshot.png" alt="Sayeed Speed X Extension Preview" width="420">
+  <img src="screenshots/sayeed-speed-x.png" alt="Sayeed Speed X Extension Preview" width="420">
 </p>
 
 ## Features
@@ -47,7 +47,7 @@ Sayeed-Speed-X-v1.0/
 ├── popup.html
 ├── popup.js
 ├── README.md
-└── screenshot.png
+└── screenshots/sayeed-speed-x.png
 ```
 
 ## Compatibility
